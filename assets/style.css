@@ -1,0 +1,16 @@
+.margin-top{
+    margin-top: 20px;
+}
+
+.image-component {
+    width: 120px;
+    height: 100px;
+}
+
+.goto{
+    text-decoration: none;
+}
+
+@media(max-width: 768px) {
+
+}
